@@ -1,0 +1,24 @@
+{
+  "name": "jsi-setReminder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^1.9.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Kali",
+    "Kiger"
+  ],
+  "author": "MIT",
+  "license": "ISC"
+}
